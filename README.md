@@ -1,0 +1,8 @@
+- 👋 Hi I'm Christian Samaniego. I'm currently a Software Engineering student at UDLA (Universidad de las Américas). I live in Quito, Ecuador.
+- 👀 I’m interested in becoming a fullstack software developer. 
+- 🌱 I'm currently learning the following technologies:
+    - HTML
+    - CSS
+    - Javascript
+    - Ruby on Rails
+- 📫 Contact: christiansama1601@gmail.com
