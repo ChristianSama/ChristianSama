@@ -5,4 +5,5 @@
     - CSS
     - Javascript
     - Ruby on Rails
+    - React
 - 📫 Contact: christiansama1601@gmail.com
