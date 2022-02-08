@@ -4,6 +4,8 @@
     - HTML
     - CSS
     - Javascript
-    - Ruby on Rails
+    - C#
+    - Ruby
+    - Rails
     - React
 - 📫 Contact: christiansama1601@gmail.com
